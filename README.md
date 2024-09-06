@@ -2,9 +2,11 @@
 Hello! For this lab, we want to delve into the workflow of GitHub. Last week, you had an assignment revolving around Git, so let's get into GitHub this week. This assignment should be super easy if you already have GitHub workflow experience. If you don't have much experience using GitHub, that's also fine! That's why we're doing this lab. 
 
 Some of this may be repetitive from last week, but if anything, more practice will help you get used to using Git & GitHub now as opposed to later. 
-
+lab-branch
 As a general overview for this lab, we will:
 ...
+
+main
 Fork a repository
 Invite collaborators to your repository
 Create and modify a branch (So, task 2 again) 
