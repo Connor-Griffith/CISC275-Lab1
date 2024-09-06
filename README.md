@@ -3,7 +3,7 @@ Hello! For this lab, we want to delve into the workflow of GitHub. Last week, yo
 
 Some of this may be repetitive from last week, but if anything, more practice will help you get used to using Git & GitHub now as opposed to later. 
 
-As a general overview for this lab, we will:
+As a general overview for this lab
 
 Fork a repository
 Invite collaborators to your repository
